@@ -2,12 +2,12 @@
 title: "Ipsum Lorem is all you need"
 collection: publications
 category: conferences
-permalink: /publication/2025-06-01-ipsum-lorem-all-you-need
-excerpt: 'This paper introduces a novel approach to simplifying LLM architectures, demonstrating that Ipsum Lorem techniques can achieve competitive performance with reduced computational costs.'
+permalink: /publication/2025-06-01-ipsum-lorem
+excerpt: 'This paper explores the application of Ipsum Lorem in long-context foundation models, highlighting improvements in handling extended sequences for LLMs.'
 date: 2025-06-01
-venue: 'Under review at COML 2025 - Conference on Machine Learning'
+venue: 'Conference on Machine Learning (COML 2025)'
 slidesurl: 'http://yourwebsite.com/files/slides-ipsum-lorem.pdf'
 paperurl: 'https://openreview.net/forum?id=example123'
 bibtexurl: 'http://yourwebsite.com/files/bibtex-ipsum-lorem.bib'
-citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Under review at COML 2025 - Conference on Machine Learning</i>.'
----
+citation: 'John Smith, et al. (2025). "Ipsum Lorem is all you need." <i>Conference on Machine Learning (COML 2025)</i>.'
+---'
